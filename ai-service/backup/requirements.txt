@@ -1,0 +1,10 @@
+SQLAlchemy
+fastapi
+pydantic
+dotenv
+python-dotenv
+openai
+numpy
+sentence-transformers
+chromadb
+uvicorn

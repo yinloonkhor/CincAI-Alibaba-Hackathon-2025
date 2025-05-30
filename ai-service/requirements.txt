@@ -1,0 +1,16 @@
+SQLAlchemy
+fastapi
+pydantic
+dotenv
+python-dotenv
+openai
+numpy
+sentence-transformers
+chromadb
+uvicorn
+requests
+pandas
+langchain-community
+python-multipart
+psycopg2
+pypdf
