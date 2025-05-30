@@ -19,7 +19,7 @@ Model Studio – Large language model (LLM) APIs services
 Elastic Compute Service (ECS) – Application hosting and backend services
 ApsaraDB RDS (PostgreSQL) – Scalable and reliable relational database
 
-## Repo Structure
+## 📁 Repo Structure
 ```
 CincAI-Alibaba-Hackathon-2025
 ├── ai-service           # FastAPI-based AI services (PDF extraction, RAG chatbot)      
@@ -27,5 +27,5 @@ CincAI-Alibaba-Hackathon-2025
 ├── backend              # Laravel backend (APIs, auth, business logic)
 ```
 
-### 👥 Acknowledgements
+## 👥 Acknowledgements
 This project was developed as part of the Alibaba Cloud AI Hackathon 2025. Huge thanks to Alibaba Cloud for the tools and support!
