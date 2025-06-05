@@ -2,7 +2,7 @@
 
 ### Team: CincAI (Khor Yin Loon, Liong Soon Yik, Ong Yi Jie, Simon Chock Shi Chao)
 
-This repository contains our solution for the Alibaba Cloud AI Hackathon 2025. Our web app, **SmarTax**, focuses on building an intelligent Expense Tracker & Tax Filing Assistant tailored for freelancers.
+This repository contains our solution for the [Alibaba Cloud AI Hackathon 2025](https://www.alibabacloud.com/en/developer/malaysia-ai-hackathon?_p_lc=1). Our web app, **SmarTax**, focuses on building an intelligent Expense Tracker & Tax Filing Assistant tailored for freelancers.
 
 ## 📺 Demo Video
 Watch our full demo on YouTube: [SmarTax Demo](https://www.youtube.com/watch?v=MVwWTnPA8f8&ab_channel=SoonYikLiong)
